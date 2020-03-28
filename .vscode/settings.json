@@ -15,12 +15,12 @@
         }],
         "targets": [{
             "type": "sftp",
-            "name": "AliyunServer",
-            "dir": "/root/source/docker_ci",
-            "host": "47.98.252.43",
+            "name": "TencentServer",
+            "dir": "/home/imyjay/kaikeba/node/10/docker_ci",
+            "host": "175.24.110.33",
             "port": 22,
             "user": "root",
-            "privateKey": "/Users/xia/.ssh/id_rsa"
+            "privateKey": "C:/Users/imyJa/.ssh/tencentCloud"
         }],
     },
 }
